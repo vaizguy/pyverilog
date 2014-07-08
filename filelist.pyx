@@ -1,4 +1,4 @@
-#! /home/aananth/bin/python2.7
+#! usr/bin/python
 
 import os.path
 import re
